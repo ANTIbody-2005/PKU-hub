@@ -1,0 +1,26 @@
+0218	08210:河中跳房子	binary search+greedy	Medium	http://cs101.openjudge.cn/2025sp_routine/08210
+0220	11.盛最多水的容器	greedy, two pointers	Medium	https://leetcode.cn/problems/container-with-most-water/
+0302	02524:宗教信仰	disjoint set	Medium	http://cs101.openjudge.cn/2025sp_routine/02524/
+0304	02299: Ultra-QuickSort	merge sort	Tough	http://cs101.openjudge.cn/2025sp_routine/02299/
+0311	3478.选出和最大的K个元素	heap	Medium	https://leetcode.cn/problems/choose-k-elements-with-maximum-sum/
+0314	27217: 有多少种合法的出栈顺序	dfs,dp	Medium	http://cs101.openjudge.cn/2025sp_routine/27217/
+0315	24591:中序表达式转后序表达式	stack	Tough	http://cs101.openjudge.cn/practice/24591/
+0316	01159: Palindrome	dp	Tough	http://cs101.openjudge.cn/2025sp_routine/01159/
+0322	84.柱状图中最大的矩形	monotonic stack	Tough	https://leetcode.cn/problems/largest-rectangle-in-histogram/
+0328	24729: 括号嵌套树	dfs, stack	Tough	http://cs101.openjudge.cn/practice/24729/ 
+0331	105.从前序与中序遍历序列构造二叉树	tree	Medium	https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+0402	T20576: printExp（逆波兰表达式建树）	tree	Tough	http://cs101.openjudge.cn/2025sp_routine/20576/
+0408	3510.移除最小数对使数组有序II	doubly-linked list + heap	Tough	https://leetcode.cn/problems/minimum-pair-removal-to-sort-array-ii/
+0410	22161: 哈夫曼编码树	greedy	Tough	http://cs101.openjudge.cn/practice/22161/
+0424	04089:电话号码	trie	Medium	http://cs101.openjudge.cn/2025sp_routine/04089/
+0501	3532.针对图的路径存在性查询I	disjoint set	Medium	https://leetcode.cn/problems/path-existence-queries-in-a-graph-i/
+0504	28050: 骑士周游	dfs, Warnsdorff	Tough	http://cs101.openjudge.cn/2025sp_routine/28050/
+0507	2962.统计最大元素出现至少K次的子数组	sliding window	Medium	https://leetcode.cn/problems/count-subarrays-where-max-element-appears-at-least-k-times/
+0509	1584.连接所有点的最小费用	Union find, minimum spanning tree	Medium	https://leetcode.cn/problems/min-cost-to-connect-all-points/
+0511	743.网络延迟时间	Dijkstra	Medium	https://leetcode.cn/problems/network-delay-time/description/
+0513	210.课程表II	topological sort	Medium	https://leetcode.cn/problems/course-schedule-ii/description/
+0515	787.K站中转内最便宜的航班	Bellman Ford	Medium	https://leetcode.cn/problems/cheapest-flights-within-k-stops/
+0520	01860: Currency Exchange	Bellman Ford	Medium	http://cs101.openjudge.cn/2025sp_routine/01860/
+0521	3355.零数组变换 I	prefix sum, greedy	Medium	https://leetcode.cn/problems/zero-array-transformation-i/
+0523	3362.零数组变换 III	greedy, heap, 差分数组	Tough	https://leetcode.cn/problems/zero-array-transformation-iii/
+0526	02502:Subway	Dijkstra	Medium	http://cs101.openjudge.cn/2025sp_routine/02502/
